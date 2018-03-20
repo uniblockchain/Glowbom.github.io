@@ -1,7 +1,11 @@
-# Glowbom.github.io
+# Glowbom.com
 
-We're building a life-changing educational platform where anyone can create a mobile app without coding. You put some data into the spreadsheet, press the button, and your app is ready to launch. We also have started a TV channel where we cover different entrepreneurial topics and inspire people to create projects and to make mobile apps. Our curriculum includes a game based on the real-life data that teaches players how to run a successful global company and take their business to the next level. 
+Glowbom is a life-changing educational platform where anyone can create a mobile app without coding. You put some data into the spreadsheet, press the button, and your app is ready to launch. We also have a [YouTube channel](https://www.youtube.com/channel/UCrYQEQPhAHmn7N8W58nNwOw) where we cover different entrepreneurial topics.
 
-This is how people will educate themselves in the future, instead of spending years in college learning sometimes outdated information for a very expensive price. 
+# Text Adventures
 
-There is a gap between people with ideas and technology. People think they need to have programming skills or get funding to create a prototype. We solve this problem and remove these obstacles. In the future, college education will take days, not years. 
+The idea of the module comes from [Choose Your Own Adventure Books](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure). You'll be able to create your own stories effortless without knowing how to code.
+
+We're currently working hard on [Android](https://github.com/Glowbom/textadventures-android) and [iOS](https://github.com/Glowbom/textadventures-ios) versions. The module will be available via Glowbom Studio. Please stay tuned and subscribe to our [YouTube channel](https://www.youtube.com/channel/UCrYQEQPhAHmn7N8W58nNwOw).
+
+Thank you! 
