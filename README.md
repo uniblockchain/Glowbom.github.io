@@ -10,4 +10,4 @@ We're currently working hard on [Android](https://github.com/Glowbom/textadventu
 
 
 
-Thank you! 
+# Thank you! 
