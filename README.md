@@ -11,4 +11,4 @@ We're currently working hard on [Android](https://github.com/Glowbom/textadventu
 # Thank you! 
 
 
-[All modules](https://github.com/Glowbom).
+[All modules](https://github.com/Glowbom)
