@@ -12,5 +12,8 @@ We're currently working hard on [Android](https://github.com/Glowbom/textadventu
 
 
 [All modules](https://github.com/Glowbom)
+
 [Website](https://glowbom.com/)
+
 [Educational Simulator](https://itunes.apple.com/us/app/office-story-start-a-startup/id764493924?mt=8)
+
