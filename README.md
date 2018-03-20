@@ -8,6 +8,7 @@ The idea of the module comes from [Choose Your Own Adventure Books](https://en.w
 
 We're currently working hard on [Android](https://github.com/Glowbom/textadventures-android) and [iOS](https://github.com/Glowbom/textadventures-ios) versions. The module will be available via Glowbom Studio. Please stay tuned and subscribe to our [YouTube channel](https://www.youtube.com/channel/UCrYQEQPhAHmn7N8W58nNwOw).
 
-
-
 # Thank you! 
+
+
+[All modules](https://github.com/Glowbom).
